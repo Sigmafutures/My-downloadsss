@@ -1,1 +1,1 @@
-download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.6.1/mhrv-rs-windows-amd64.zip
+download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.6.2/mhrv-rs-windows-amd64.zip
